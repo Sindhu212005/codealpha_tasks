@@ -56,16 +56,17 @@ Graphs generated:
 
 ![Output 4](screenshots/output4.png)
 
-### Output 1
+### Output 5
 
 ![Output 5](screenshots/output5.png)
 
-### Output 2
+### Output 6
 
 ![Output 6](screenshots/output6.png)
 
-### Output 3
+### Output 7
 
 ![Output 7](screenshots/output7.png)
+
 ## Conclusion
 This project demonstrates how Python can be used for data analysis and visualization to understand unemployment trends.
