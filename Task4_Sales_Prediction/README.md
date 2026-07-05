@@ -67,23 +67,32 @@ Target:
 ## Project Structure
 
 Task4_Sales_Prediction/
+
 ├── data/
+
 │ └── advertising.csv
+
 ├── outputs/
+
 │ ├── output1.png
+
 │ ├── output2.png
+
 │ ├── output3.png
+
 │ ├── output4.png
-│ ├── output5.png
-│ ├── output6.png
-│ ├── output7.png
-│ ├── output8.png
-│ └── output9.png
+
+│ └── output5.png
+
 ├── main.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── .gitignore
 
+---
 
 ## 📷 Outputs:
 ### Output 1
