@@ -67,40 +67,58 @@ Target:
 ## Project Structure
 
 Task4_Sales_Prediction/
-
 ├── data/
-
 │ └── advertising.csv
-
 ├── outputs/
-
 │ ├── output1.png
-
 │ ├── output2.png
-
 │ ├── output3.png
-
 │ ├── output4.png
-
 │ ├── output5.png
-
 │ ├── output6.png
-
 │ ├── output7.png
-
 │ ├── output8.png
-
 │ └── output9.png
-
 ├── main.py
-
 ├── requirements.txt
-
 ├── README.md
-
 └── .gitignore
 
----
+
+## 📷 Outputs:
+### Output 1
+
+![Output 1](outputs/output1.png)
+
+### Output 2
+
+![Output 2](outputs/output2.png)
+
+### Output 3
+
+![Output 3](outputs/output3.png)
+### Output 4
+
+![Output 4](outputs/output4.png)
+
+### Output 5
+
+![Output 5](outputs/output5.png)
+
+### Output 6
+
+![Output 6](outputs/output6.png)
+### Output 7
+
+![Output 7](outputs/output7.png)
+
+### Output 8
+
+![Output 8](outputs/output8.png)
+
+### Output 9
+
+![Output 9](outputs/output9.png)
 
 ## Conclusion
 
